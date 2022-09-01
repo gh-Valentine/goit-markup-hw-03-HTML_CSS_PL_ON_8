@@ -303,7 +303,7 @@ img {
 }
 
 .button-porfolio-list-item:not(:last-child) {
-  margin: 8px;
+  margin-right: 8px;
 }
 
 .button-portfolio:hover,
